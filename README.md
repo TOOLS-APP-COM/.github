@@ -68,6 +68,8 @@
   </table>
 </div>
 
+<img src="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/EXTENSION.jpg?raw=true" width="300px">
+
 ## 📑 STACK WE USE
 
 - ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) **Golang**: For building efficient and scalable backend services.
