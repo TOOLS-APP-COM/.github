@@ -68,7 +68,9 @@
   </table>
 </div>
 
-<img src="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/EXTENSION.jpg?raw=true" width="300px">
+<div align="center">
+  <img src="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/EXTENSION.jpg?raw=true" width="300px">
+</div>
 
 ## 📑 STACK WE USE
 
