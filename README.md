@@ -1,4 +1,30 @@
-# **ALL PREMIUM APPS IN ONE APP** ![TOOLS APP Logo](https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true)
+# **ALL PREMIUM APPS IN ONE APP** ![TOOLS APP Logo](https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.
+png?raw=true)
+
+<!-- Metadata -->
+<meta name="title" content="TOOLS APP - All Premium Apps in One Platform">
+<meta name="description" content="Access 100+ premium applications including ChatGPT, Claude, Perplexity AI, and Codecademy Premium through one affordable subscription. Starting from Rp.30.000.">
+<meta name="keywords" content="premium apps, tools app, ChatGPT, Claude AI, Perplexity AI, Codecademy Premium, subscription service, productivity tools">
+<meta name="author" content="TOOLS APP">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tools-app.com/">
+<meta property="og:title" content="TOOLS APP - All Premium Apps in One Platform">
+<meta property="og:description" content="Access 100+ premium applications through one affordable subscription. Transform your digital experience today.">
+<meta property="og:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://tools-app.com/">
+<meta property="twitter:title" content="TOOLS APP - All Premium Apps in One Platform">
+<meta property="twitter:description" content="Access 100+ premium applications through one affordable subscription. Transform your digital experience today.">
+<meta property="twitter:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
+
+# 🚀 TOOLS APP - Your All-in-One Premium Application Platform
+[![GitHub stars](https://img.shields.io/github/stars/TOOLS-APP-COM/tools-app?style=social)](https://github.com/TOOLS-APP-COM/tools-app/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://tools-app.com)
 
 > 🚀 **All Premium Apps in One Place** - Transform your digital experience with TOOLS APP, your gateway to over 100+ premium applications in a single platform. From cutting-edge AI tools like ChatGPT, Claude, and Perplexity AI, to professional learning resources like Codecademy Premium – all accessible through one seamless subscription starting from just Rp.30.000. Say goodbye to multiple subscriptions and hello to simplified productivity. Join thousands of users who have already discovered the smarter way to access premium tools.
 
@@ -49,3 +75,27 @@
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL**: Our choice for a robust and reliable database.
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP**: Powering dynamic web applications with ease.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Enhancing user interface and interactive features.
+
+## ✨ Key Features
+
+- 🔥 Access to 100+ Premium Applications
+- 💰 Single Affordable Subscription (Starting from Rp.30.000)
+- 🤖 Premium AI Tools (ChatGPT, Claude, Perplexity AI)
+- 📚 Learning Resources (Codecademy Premium)
+- 🔒 Secure & Reliable Platform
+- 🌐 24/7 Customer Support
+
+## 📞 Contact & Support
+
+- 📧 Email: support@tools-app.com
+- 💬 Discord: [Join our community](https://discord.gg/tools-app)
+- 📱 WhatsApp: [Contact Support](https://wa.me/yournumber)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+<div align="center">
+Made with ❤️ by TOOLS APP Team
+</div>
