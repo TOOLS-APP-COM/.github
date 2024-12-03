@@ -43,7 +43,7 @@
   </table>
 </div>
 
-## 🚀 STACK WE USE
+## 📑 STACK WE USE
 
 - ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) **Golang**: For building efficient and scalable backend services.
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL**: Our choice for a robust and reliable database.
