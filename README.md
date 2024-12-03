@@ -1,4 +1,4 @@
-![TOOLS APP Logo](https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true) **ALL PREMIUM APPS IN ONE APP**
+![TOOLS APP Logo](https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true) # **ALL PREMIUM APPS IN ONE APP**
 
 
 ## Our Premium App Interface Showcase
