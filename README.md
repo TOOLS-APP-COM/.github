@@ -1,7 +1,9 @@
 <!-- Metadata -->
-<meta name="title" content="TOOLS APP - All Premium Apps in One Platform">
-<meta name="description" content="Access 100+ premium applications including ChatGPT, Claude, Perplexity AI, and Codecademy Premium through one affordable subscription. Starting from Rp.30.000.">
-<meta name="keywords" content="premium apps, tools app, ChatGPT, Claude AI, Perplexity AI, Codecademy Premium, subscription service, productivity tools">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#ffffff">
+<meta name="language" content="en">
+<meta name="revisit-after" content="7 days">
 <meta name="author" content="TOOLS APP">
 
 <!-- Open Graph / Facebook -->
