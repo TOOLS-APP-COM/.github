@@ -1,6 +1,3 @@
-# **ALL PREMIUM APPS IN ONE APP** ![TOOLS APP Logo](https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.
-png?raw=true)
-
 <!-- Metadata -->
 <meta name="title" content="TOOLS APP - All Premium Apps in One Platform">
 <meta name="description" content="Access 100+ premium applications including ChatGPT, Claude, Perplexity AI, and Codecademy Premium through one affordable subscription. Starting from Rp.30.000.">
