@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/LOGO.jpg?raw=true" alt="TOOLS APP Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+  <img src="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true" alt="TOOLS APP Logo" style="width: 50px; height: 50px; margin-right: 10px;">
   <h1>ALL PREMIUM APPS IN ONE APP</h1>
 </div>
 
