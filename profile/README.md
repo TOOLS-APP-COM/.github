@@ -21,9 +21,34 @@
 <meta property="twitter:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
 
 # 🚀 TOOLS APP - Your All-in-One Premium Application Platform
-[![GitHub stars](https://img.shields.io/github/stars/TOOLS-APP-COM/tools-app?style=social)](https://github.com/TOOLS-APP-COM/tools-app/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://tools-app.com)
+### Backend Services
+<p align="center">
+  <a href="https://github.com/TOOLS-APP-COM/BACKEND-WEBSITE" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/BACKEND_WEBSITE-2D3748?style=for-the-badge" alt="Backend Website">
+  </a>
+  <a href="https://github.com/TOOLS-APP-COM/BACKEND-PAYMENT-TRAKTEER" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/PAYMENT_BACKEND-00C853?style=for-the-badge" alt="Payment Backend">
+  </a>
+  <a href="https://github.com/TOOLS-APP-COM/BACKEND-EXTENSION" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/EXTENSION_BACKEND-FF5722?style=for-the-badge" alt="Extension Backend">
+  </a>
+  <a href="https://github.com/TOOLS-APP-COM/BACKEND-EXTENSION-ADMIN">
+    <img src="https://img.shields.io/badge/ADMIN_BACKEND-1976D2?style=for-the-badge" alt="Admin Backend">
+  </a>
+</p>
+
+### Frontend Applications
+<p align="center">
+  <a href="https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Browser_Extension-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browser Extension">
+  </a>
+  <a href="https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION-ADMIN" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Extension_Admin-7C4DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Extension Admin">
+  </a>
+  <a href="https://github.com/TOOLS-APP-COM/TOOLS-APP-WEBSITE">
+    <img src="https://img.shields.io/badge/Main_Website-00BFA5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Main Website">
+  </a>
+</p>
 
 > 🚀 **All Premium Apps in One Place** - Transform your digital experience with TOOLS APP, your gateway to over 100+ premium applications in a single platform. From cutting-edge AI tools like ChatGPT, Claude, and Perplexity AI, to professional learning resources like Codecademy Premium – all accessible through one seamless subscription starting from just Rp.30.000. Say goodbye to multiple subscriptions and hello to simplified productivity. Join thousands of users who have already discovered the smarter way to access premium tools.
 
