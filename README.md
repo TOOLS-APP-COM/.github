@@ -21,9 +21,17 @@
 <meta property="twitter:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
 
 # 🚀 TOOLS APP - Your All-in-One Premium Application Platform
-[![GitHub stars](https://img.shields.io/github/stars/TOOLS-APP-COM/tools-app?style=social)](https://github.com/TOOLS-APP-COM/tools-app/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://tools-app.com)
+<p align="center">
+  <a href="https://example.com/download" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=download&logoColor=white" alt="Download Now">
+  </a>
+  <a href="https://example.com/docs" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Documentation-📖-blue?style=for-the-badge" alt="Documentation">
+  </a>
+  <a href="https://github.com/username/repo">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+</p>
 
 > 🚀 **All Premium Apps in One Place** - Transform your digital experience with TOOLS APP, your gateway to over 100+ premium applications in a single platform. From cutting-edge AI tools like ChatGPT, Claude, and Perplexity AI, to professional learning resources like Codecademy Premium – all accessible through one seamless subscription starting from just Rp.30.000. Say goodbye to multiple subscriptions and hello to simplified productivity. Join thousands of users who have already discovered the smarter way to access premium tools.
 
