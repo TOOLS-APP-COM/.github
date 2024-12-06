@@ -40,13 +40,13 @@
 ### Frontend Applications
 <p align="center">
   <a href="https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Browser_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browser Extension">
+    <img src="https://img.shields.io/badge/Browser_Extension-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browser Extension">
   </a>
   <a href="https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION-ADMIN" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Extension_Admin-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Extension Admin">
+    <img src="https://img.shields.io/badge/Extension_Admin-7C4DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Extension Admin">
   </a>
   <a href="https://github.com/TOOLS-APP-COM/TOOLS-APP-WEBSITE">
-    <img src="https://img.shields.io/badge/Main_Website-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Main Website">
+    <img src="https://img.shields.io/badge/Main_Website-00BFA5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Main Website">
   </a>
 </p>
 
