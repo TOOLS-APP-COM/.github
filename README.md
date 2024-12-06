@@ -24,16 +24,16 @@
 ### Backend Services
 <p align="center">
   <a href="https://github.com/TOOLS-APP-COM/BACKEND-WEBSITE" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Backend_Website-2D3748?style=for-the-badge&logo=server&logoColor=white" alt="Backend Website">
+    <img src="https://img.shields.io/badge/BACKEND_WEBSITE-2D3748?style=for-the-badge" alt="Backend Website">
   </a>
   <a href="https://github.com/TOOLS-APP-COM/BACKEND-PAYMENT-TRAKTEER" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Payment_Backend-00C853?style=for-the-badge&logo=cash-app&logoColor=white" alt="Payment Backend">
+    <img src="https://img.shields.io/badge/PAYMENT_BACKEND-00C853?style=for-the-badge" alt="Payment Backend">
   </a>
   <a href="https://github.com/TOOLS-APP-COM/BACKEND-EXTENSION" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Extension_Backend-FF5722?style=for-the-badge&logo=plug&logoColor=white" alt="Extension Backend">
+    <img src="https://img.shields.io/badge/EXTENSION_BACKEND-FF5722?style=for-the-badge" alt="Extension Backend">
   </a>
   <a href="https://github.com/TOOLS-APP-COM/BACKEND-EXTENSION-ADMIN">
-    <img src="https://img.shields.io/badge/Admin_Backend-1976D2?style=for-the-badge&logo=admin&logoColor=white" alt="Admin Backend">
+    <img src="https://img.shields.io/badge/ADMIN_BACKEND-1976D2?style=for-the-badge" alt="Admin Backend">
   </a>
 </p>
 
