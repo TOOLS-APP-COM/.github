@@ -21,6 +21,23 @@
 <meta property="twitter:image" content="https://github.com/TOOLS-APP-COM/.github/blob/main/IMAGES/ICONLOGO.png?raw=true">
 
 # 🚀 TOOLS APP - Your All-in-One Premium Application Platform
+
+### BACKEND EXTENSION
+
+<div align="center">
+
+| Service | Description | Status |
+|---------|-------------|---------|
+| [📊 Database](https://github.com/TOOLS-APP-COM/DATABASE) | Central data management system | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/DATABASE) |
+| [👑 Admin Panel](https://github.com/TOOLS-APP-COM/BACKEND-ADMIN) | Administrative control interface | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/BACKEND-ADMIN) |
+| [🌐 Website](https://github.com/TOOLS-APP-COM/BACKEND-WEBSITE) | Main website backend | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/BACKEND-WEBSITE) |
+| [🔌 Extension](https://github.com/TOOLS-APP-COM/BACKEND-EXTENSION) | Browser extension services | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/BACKEND-EXTENSION) |
+| [💳 Payment](https://github.com/TOOLS-APP-COM/BACKEND-PAYMENT-TRAKTEER) | Payment processing system | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/BACKEND-PAYMENT-TRAKTEER) |
+
+</div>
+
+
+
 ### Backend Services
 <p align="center">
   <a href="https://github.com/TOOLS-APP-COM/BACKEND-WEBSITE" style="margin-right: 10px;">
