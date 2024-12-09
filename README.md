@@ -59,7 +59,7 @@
 | [🍪 Cookie Extractor](https://github.com/TOOLS-APP-COM/COOKIES-EXTRACT) | Cookie Management System | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/COOKIES-EXTRACT) |
 | [👑 Admin Panel](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION-ADMIN) | Administrative Control Interface | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION-ADMIN) |
 | [🎯 Tools App](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION) | Main Extension Platform | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION) |
-| [🎯 Tools App ENCRYP](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION) | Main Extension Platform | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION) |
+| [🎯 Tools App ENCRYP](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION-ENCRYP) | Main Extension Platform | [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/TOOLS-APP-COM/TOOLS-APP-EXTENSION-ENCRYP) |
 
 </div>
 
